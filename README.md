@@ -1,3 +1,7 @@
+<table>
+<tr>
+<td>
+
 ```bash
 $ nitishfetch
 
@@ -24,21 +28,37 @@ $ nitishfetch
       `/++++++++++++++++++++++++++/`
          ``.-://++++++++++//:-.``
 
-nitish@earth
-------------
-Role:        Product Engineer / Builder
-Focus:       Automating workflows, shipping systems that scale
-Stack:       TypeScript, React, Node.js, PostgreSQL
-Also:        UI/UX design, security-curious, systems thinking
-Uptime:      20+ years
-Editor:      VS Code, Neovim
-Shell:       zsh
-Hobbies:     Photography, Formula 1, e-sports design
 
-contacts
---------
-Portfolio:   https://your-portfolio.link
-GitHub:      https://github.com/your-username
-LinkedIn:    https://linkedin.com/in/your-handle
-Twitter:     https://x.com/your-handle
-Email:       youremail@example.com
+</td> <td>
+nitish@localhost
+----------------
+
+> Role:        Product / Systems Engineer  
+> Mission:     Automate the painful. Scale the impossible.  
+> Speciality:  Full-stack + AI + workflow automation  
+> Systems:     complex → simple, manual → automatic  
+> Alignment:   builder / breaker / fixer  
+
+Tech Stack:
+• TypeScript, Python, C/C++
+• FastAPI, React, Next.js
+• PostgreSQL, Redis, Firebase
+• RAG, WebRTC, AI workflows
+
+Gear:
+• OS: Linux
+• Shell: zsh
+• Editor: NeoVim & VSCode
+• Browser: Arc / Chrome Canary
+
+Interests:
+• OSINT vibes
+• Formula 1 telemetry
+• motion design + terminal art
+
+Contact:
+• email → nitishkumar.india.06@gmail.com
+• github → /nitish
+• linkedin → /nitish
+
+</td> </tr> </table> ```
