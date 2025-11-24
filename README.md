@@ -1,63 +1,27 @@
-<table>
-<tr>
-<td>
+<h2>Hi, I'm Nitish Kumar</h2>
 
-```bash
-$ nitishfetch
+<p><em>Product Engineer & Designer — focused on automation, AI systems, and scalable product experiences.</em></p>
 
-                    `-`
-                   `o+-`
-                  `ooo+.`
-                 .+oooo+.
-                .+ooooooo.
-                -+ooooooo+.
-              ./:-:+oooooo+.
-             .+oooo++ooooooo/`
-            .+ooooooooooooooo/`
-           .+oooooo+//////////.
-          .+ooooo+/////////////.
-         -+ooooo+///////////////-
-        .+ooooo+/////////////////.
-       `+ooooo+///////////////////.
-       +ooooo+////////////////////+`
-      :ooooo+///////////////////////:
-     .+oooo+/////////////////////////.
-     +oooo+//////////////////////////+
-     +oooo+//////////////////////////+
-     .+ooo+/////////////////////////.
-      `/++++++++++++++++++++++++++/`
-         ``.-://++++++++++//:-.```
+---
 
-</td>
-<td>
+### 🧭 A little more about me...
 
-nitish@localhost  
-----------------  
+```javascript
+const nitish = {
+  role: "Product Engineer",
+  pronouns: "He/Him",
+  strengths: ["Automation", "System Design", "AI Workflows", "UX Thinking"],
+  
+  code: ["TypeScript", "Python", "C", "C++", "Java"],
 
-> Role:        Product / Systems Engineer  
-> Mission:     Automate the painful. Perfomative Designer  
-> Speciality:  Full-stack + AI + workflow automation + Designer + Editor  
-> Systems:     complex → simple, manual → automatic  
-> Alignment:   builder / breaker / fixer  
+  technologies: {
+    frontEnd: ["React", "Next.js", "Tailwind"],
+    backEnd: ["Node", "FastAPI"],
+    databases: ["PostgreSQL", "Firebase"],
+    ai: ["RAG Pipelines", "Prompt Engineering"],
+    misc: ["WebRTC", "Automation", "Motion Design"]
+  },
 
-**Tech Stack**
-• TypeScript, Python, C/C++, JavaScript  
-• FastAPI, React, Next.js  
-• PostgreSQL, Redis, Firebase  
-• RAG, WebRTC, AI workflows  
-
-**Gear**
-• OS: Windows  
-• Editor: VSCode  
-• Browser: Arc  
-
-**Interests**
-• Formula 1 telemetry  
-• motion design + terminal art  
-
-**Contact**
-• email → nitishkumar.india.06@gmail.com
-
-</td>
-</tr>
-</table>
+  philosophy: "If a process repeats twice, automate it.",
+  currentFocus: "Building AI-driven workflow automation systems"
+}
