@@ -26,39 +26,38 @@ $ nitishfetch
      +oooo+//////////////////////////+
      .+ooo+/////////////////////////.
       `/++++++++++++++++++++++++++/`
-         ``.-://++++++++++//:-.``
+         ``.-://++++++++++//:-.```
 
+</td>
+<td>
 
-</td> <td>
-nitish@localhost
-----------------
+nitish@localhost  
+----------------  
 
 > Role:        Product / Systems Engineer  
-> Mission:     Automate the painful. Scale the impossible.  
-> Speciality:  Full-stack + AI + workflow automation  
+> Mission:     Automate the painful. Perfomative Designer  
+> Speciality:  Full-stack + AI + workflow automation + Designer + Editor  
 > Systems:     complex → simple, manual → automatic  
 > Alignment:   builder / breaker / fixer  
 
-Tech Stack:
-• TypeScript, Python, C/C++
-• FastAPI, React, Next.js
-• PostgreSQL, Redis, Firebase
-• RAG, WebRTC, AI workflows
+**Tech Stack**
+• TypeScript, Python, C/C++, JavaScript  
+• FastAPI, React, Next.js  
+• PostgreSQL, Redis, Firebase  
+• RAG, WebRTC, AI workflows  
 
-Gear:
-• OS: Linux
-• Shell: zsh
-• Editor: NeoVim & VSCode
-• Browser: Arc / Chrome Canary
+**Gear**
+• OS: Windows  
+• Editor: VSCode  
+• Browser: Arc  
 
-Interests:
-• OSINT vibes
-• Formula 1 telemetry
-• motion design + terminal art
+**Interests**
+• Formula 1 telemetry  
+• motion design + terminal art  
 
-Contact:
+**Contact**
 • email → nitishkumar.india.06@gmail.com
-• github → /nitish
-• linkedin → /nitish
 
-</td> </tr> </table> ```
+</td>
+</tr>
+</table>
