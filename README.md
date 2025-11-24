@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zerko-sd" alt="zerko-sd" /></a> </p>
 
-- 🔭 I’m currently working on [GitIT]([secret])
+- 🔭 I’m currently working on **GitIT**
+
+- 👯 I’m looking to collaborate on **WebRTC Based Projects**
 
 - How to reach me **Nitishkumar.india.06@gmail.com**
 
