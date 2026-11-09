@@ -1,27 +1,7 @@
-<h2>Hi, I'm Nitish Kumar</h2>
-
-<p><em>Product Engineer & Designer — focused on automation, AI systems, and scalable product experiences.</em></p>
-
----
-
-### 🧭 A little more about me...
-
-```javascript
-const nitish = {
-  role: "Product Engineer",
-  pronouns: "He/Him",
-  strengths: ["Automation", "System Design", "AI Workflows", "UX Thinking"],
-  
-  code: ["TypeScript", "Python", "C", "C++", "Java"],
-
-  technologies: {
-    frontEnd: ["React", "Next.js", "Tailwind"],
-    backEnd: ["Node", "FastAPI"],
-    databases: ["PostgreSQL", "Firebase"],
-    ai: ["RAG Pipelines", "Prompt Engineering"],
-    misc: ["WebRTC", "Automation", "Motion Design"]
-  },
-
-  philosophy: "If a process repeats twice, automate it.",
-  currentFocus: "Building AI-driven workflow automation systems"
-}
+<p align="center">
+<a href="https://www.admrls.com"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/hero.png"><img src="./assets/hero.gif" width="98.5%" alt="Nitish Kumar. Designer. Co-founder of Admrls, Chennai. A 1-bit dithered chimera walks in place, with antlers and a stack of blocks on its back. Current status: idk what I am doing atp."></picture></a><br>
+<img src="./assets/hinoki.png" width="49%" alt="Hinoki, specimen 01. Figma designs anyone can fill in. A dithered stag with its head selected as an editable layer."> <a href="https://github.com/Zerko-sd/dropframe"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/dropframe.png"><img src="./assets/dropframe.gif" width="49%" alt="dropframe, specimen 02. Every cut on the kick. A dithered hound leaping, cut on the beat."></picture></a><br>
+<img src="./assets/redwood.png" width="49%" alt="Redwood, specimen 03. Same spec, same app, byte for byte. Two identical dithered bison with an equals sign between them."> <img src="./assets/unjira.png" width="49%" alt="unJira, specimen 04. If it has no time it isn't work. A dithered creature hunched under a stack of blocks that runs off the page, booked to 130 percent."><br>
+<img src="./assets/progress.png" width="98.5%" alt="Progress. A dithered millipede drawn from real commit history: 109 commits over 76 days from August 22 to November 5, one leg per commit, fatter on busy days."><br>
+<a href="https://www.linkedin.com/in/nitishworks/"><img src="./assets/linkedin.png" width="98.5%" alt="Tear-off flyer with a QR code to linkedin.com/in/nitishworks. One tab is already torn off."></a>
+</p>
